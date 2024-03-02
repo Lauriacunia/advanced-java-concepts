@@ -1,4 +1,4 @@
-import com.codigofacilito.clase04.AgeCalculator;
+import com.codigofacilito.clase03.AgeCalculator;
 
 /**
  * Como pueden ver esta clase no incluye un package en el proyecto y por lo tanto no esta ubicada dentro de ninguna
